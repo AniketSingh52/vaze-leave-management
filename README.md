@@ -10,7 +10,7 @@ The Vaze College Leave Management System simplifies leave applications for facul
 | Frontend     | HTML, CSS, JavaScript, Tailwind CSS, jQuery |
 | Backend      | PHP                        |
 | Database     | MySQL                      |
-| Hosting      | InfinityFree Web Hosting   |
+| Hosting      | College Server   |
 
 ---
 
