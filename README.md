@@ -25,3 +25,9 @@ The Vaze College Leave Management System simplifies leave applications for facul
 | ![Landing Page](Preview%20Images/dashboard2.png) |
 
 ---
+
+## 📃 License
+
+This project is for educational and institutional use only.
+---
+
